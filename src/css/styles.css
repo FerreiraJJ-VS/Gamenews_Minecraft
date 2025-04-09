@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: 'Minecraft';
-    src: url('src/fonts/minecraft/Minecraft.ttf') format(truetype);
+    src: url('../fonts/minecraft/Minecraft.ttf') format(truetype);
     font-weight: normal;
     font-style: normal;
     gap: 10px;
@@ -10,21 +10,21 @@
 
 @font-face {
     font-family: 'GameShow';
-    src: url('src/fonts/gameshow/Gameshow\ Italic.ttf') format(truetype), url('/fonts/gameshow/Gameshow\ Italic.otf') format(opentype);
+    src: url('../fonts/gameshow/Gameshow\ Italic.ttf') format(truetype), url('/fonts/gameshow/Gameshow\ Italic.otf') format(opentype);
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Minecraftory';
-    src: url('src/fonts/minercraftory/Minercraftory.ttf') format(truetype);
+    src: url('../fonts/minercraftory/Minercraftory.ttf') format(truetype);
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Spring Rainstorm';
-    src: url('src/fonts/spring_rainstorm/Spring\ Rainstorm.ttf') format(truetype);
+    src: url('../fonts/spring_rainstorm/Spring\ Rainstorm.ttf') format(truetype);
     font-weight: normal;
     font-style: normal;
 }
@@ -55,14 +55,14 @@ body {
 }
 
 header {
-    background-image: url(/src/imgs/minecraft-grass.jpg);
+    background-image: url(../imgs/minecraft-grass.jpg);
     background-attachment: fixed;
     padding-top: 3.5px;
     padding-bottom: 7.4px;
 }
 
 nav {
-    background-image: url(/src/imgs/minecraft-grass.jpg);
+    background-image: url(../imgs/minecraft-grass.jpg);
     background-attachment: fixed;
     padding: 4.5px;
 }
@@ -182,7 +182,7 @@ em#spring-color {
 }
 
 footer {
-    background-image: url(/src/imgs/minecraft-grass.jpg);
+    background-image: url(../imgs/minecraft-grass.jpg);
     background-attachment: fixed;
     height: 100%;
     padding: 6.5px;
@@ -263,7 +263,7 @@ aside a:hover {
 }
 
 aside {
-    background-image: url(/src/imgs/minecraft-grass.jpg);
+    background-image: url(../imgs/minecraft-grass.jpg);
     background-attachment: fixed;
     width: 333px;
     margin: auto;
