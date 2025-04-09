@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: 'Minecraft';
-    src: url('/src/fonts/minecraft/Minecraft.ttf') format(truetype);
+    src: url('src/fonts/minecraft/Minecraft.ttf') format(truetype);
     font-weight: normal;
     font-style: normal;
     gap: 10px;
@@ -10,21 +10,21 @@
 
 @font-face {
     font-family: 'GameShow';
-    src: url('/src/fonts/gameshow/Gameshow\ Italic.ttf') format(truetype), url('/fonts/gameshow/Gameshow\ Italic.otf') format(opentype);
+    src: url('src/fonts/gameshow/Gameshow\ Italic.ttf') format(truetype), url('/fonts/gameshow/Gameshow\ Italic.otf') format(opentype);
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Minecraftory';
-    src: url('/src/fonts/minercraftory/Minercraftory.ttf') format(truetype);
+    src: url('src/fonts/minercraftory/Minercraftory.ttf') format(truetype);
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Spring Rainstorm';
-    src: url('/src/fonts/spring_rainstorm/Spring\ Rainstorm.ttf') format(truetype);
+    src: url('src/fonts/spring_rainstorm/Spring\ Rainstorm.ttf') format(truetype);
     font-weight: normal;
     font-style: normal;
 }
